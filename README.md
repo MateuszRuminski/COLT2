@@ -1,1 +1,0 @@
-# COLT2 . Jest ok :)
